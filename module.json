@@ -1,0 +1,37 @@
+{
+  "id": "dungeon-world-babele-ua",
+  "title": "Dungeon World Babele Ukraine",
+  "description": "Цей модуль є українським перекладом наданих компендіумів Dungeon World від Asocalips. Додаткову інформацію можна знайти у файлі READ.ME. Для роботи цього модуля також потрібен модуль Babele. Переклад виконано за допомогою моделі GPT-4.",
+  "version": "1.0",
+  "compatibility": {
+      "minimum": "10",
+      "verified": "11.315"
+    },
+  "authors": [{
+      "name": "Viacheslav Malykhin",
+      "discord": "karkleo",
+      "flags": {}
+    }],
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "system": ["dungeonworld"],
+  "relationships": {
+    "systems": [{
+        "id": "dungeonworld",
+        "type": "system",
+        "compatibility": {"verified": "1.7.1"}
+    }],
+    "modules": [{
+        "id": "babele",
+        "type": "module",
+        "compatibility": {"verified": "2.5.2"}
+    }]
+  },
+   
+  "url": "https://github.com/KarkLeo/dungeon-world-babele-ua",
+  "manifest": "https://raw.githubusercontent.com/KarkLeo/dungeon-world-babele-ua/main/module.json",
+  "download": "https://github.com/KarkLeo/dungeon-world-babele-ua/archive/refs/heads/main.zip"
+}
