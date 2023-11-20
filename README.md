@@ -19,6 +19,7 @@ Asocalips створив відмінну систему для Dungeon World у
    Якщо знайдете помилки в перекладі, будь ласка, повідомте, я перегляну їх.
 
 <h3>Посилання</h3>
+
 - Репозиторій: https://github.com/KarkLeo/dungeon-world-babele-ua
 - Маніфест: https://raw.githubusercontent.com/KarkLeo/dungeon-world-babele-ua/main/module.json
 - Завантаження: https://github.com/KarkLeo/dungeon-world-babele-ua/archive/refs/heads/main.zip
