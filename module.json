@@ -2,7 +2,7 @@
   "id": "dungeon-world-babele-ua",
   "title": "Dungeon World Babele Ukraine",
   "description": "Цей модуль є українським перекладом наданих компендіумів Dungeon World від Asocalips. Додаткову інформацію можна знайти у файлі READ.ME. Для роботи цього модуля також потрібен модуль Babele. Переклад виконано за допомогою моделі GPT-4.",
-  "version": "1.1",
+  "version": "1.2",
   "compatibility": {
       "minimum": "10",
       "verified": "11.315"
